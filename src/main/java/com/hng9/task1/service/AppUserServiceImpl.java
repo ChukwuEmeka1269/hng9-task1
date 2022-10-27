@@ -17,7 +17,7 @@ public class AppUserServiceImpl implements AppUserService{
                 .backend(true)
                 .bio("A gentle and understanding fun-loving personality with interest in tech. " +
                         "Passionate about learning new things. ")
-                .slackUsername("GentleStorm89")
+                .slackUsername("GentleStorm69")
                 .build();
     }
 }
